@@ -1,4 +1,5 @@
-# Learning_Journey
-
-This repo covers my learning journey for math basics, coding & AI-ML.
-The contents covers my personal notes, refrences from online resouces and LLM's.
+📘 Learning Journey
+This repository documents my learning journey in Mathematics, Coding, and AI/ML. It includes:
+✅ Personal notes on foundational and advanced topics
+✅ References from online resources and LLMs
+✅ Structured notebooks covering math, machine learning, and AI concepts
